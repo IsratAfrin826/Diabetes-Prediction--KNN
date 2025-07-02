@@ -15,3 +15,26 @@ KNN works by:
              3. Picking the K closest neighbors.
              
              4. Making a prediction based on the majority class of those neighbors.
+
+
+### What I Have Done In This Project---
+
+                            1. Import Libraries
+
+                            2. Mount
+
+                            3. Load Dataset
+
+                            4. Preprocessing
+
+                            5. Split
+
+                            6. Train KNN Model
+
+                            7. Predict
+
+                            8. Confussion Metrix
+
+                            9. Classification Report
+
+                            10. Accuracy Report
